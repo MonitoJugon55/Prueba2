@@ -529,8 +529,8 @@ span {
   }
 
   .whatsapp-fijo {
-    width: 20px;
-    height: 20px;
+    width: 40px;
+    height: 40px;
     top: 91.5%;
     right: 0%;
   }
@@ -576,6 +576,8 @@ span {
   }
 
   .whatsapp-icon {
+    width: 40px;
+    height: 40px;
     right: 30px;
     left: unset;
   }
