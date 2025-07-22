@@ -530,15 +530,15 @@ span {
   }
 
   .whatsapp-fijo {
-    width: 40px;
-    height: 40px;
+    width: 20px;
+    height: 20px;
     top: 91.5%;
     right: 0%;
   }
 
   .img-wpp {
-    width: 40px;
-    height: 40px;
+    width: 20px;
+    height: 20px;
     right: 30px;
     left: unset;
   }
@@ -562,7 +562,12 @@ span {
     padding-top: 30%;
     margin-right: 10%;
   }
-
+  .img-wpp {
+    width: 20px;
+    height: 20px;
+    right: 30px;
+    left: unset;
+  }
 
   
 }
