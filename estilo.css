@@ -491,11 +491,10 @@ span {
 
     @media (max-width: 768px) {
 
-      body{
-        margin-left: 10px;
-        margin-right: 10px;
+      .inicio{
+        margin-left: 15px;
+        margin-right: 15px;
       }
-
       .frase-limona{
         left: 0px;
       }
