@@ -535,6 +535,7 @@ span {
     height: 50px;
     right: 30px;
     left: unset;
+    position: sticky;
   }
 
   nav a {
